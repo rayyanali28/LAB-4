@@ -1,2 +1,1 @@
-# LAB-4
-Introduction to GItHub
+# Introduction to GItHub
